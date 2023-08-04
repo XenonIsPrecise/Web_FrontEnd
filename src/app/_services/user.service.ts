@@ -6,7 +6,9 @@ import { Observable } from 'rxjs';
 
 
 
-const API_URL = 'http://localhost:8080/api/test/';
+//const API_URL = 'http://localhost:8080/api/test/';
+
+const API_URL = 'https://backend-3lk0.onrender.com/api/test/';
 
 
 
